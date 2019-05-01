@@ -1,6 +1,8 @@
 # seller
-it has be packed by webpack<br/>
-这个项目已经被webpack打包了
+It has be packed by webpack<br/>
+这个项目已经被webpack打包了<br/>
+It used `vue2.x` + `vue-cli3.0` + `ES6+` + `stylus` + `axios` + `http-serve` + `better-scroll-plugin` + `webpack`<br/>
+项目使用了：`vue2.x` + `vue-cli3.0` + `ES6+` + `stylus` + `axios` + `http-serve` + `better-scroll-plugin` + `webpack`
 
 ## Run dist（运行打包后的文件）
 ```
