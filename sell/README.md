@@ -1,4 +1,11 @@
 # seller
+it has be packed by webpack<br/>
+这个项目已经被webpack打包了
+
+## Run dist（运行打包后的文件）
+```
+node prod.serve.js
+```
 
 ## Project setup
 ```
